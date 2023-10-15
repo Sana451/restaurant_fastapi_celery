@@ -1,9 +1,9 @@
 # restaurant_fastapi_celery
 Проект на FastAPI, Redis, Celery и PostgreSQL. 
 В проекте реализовано REST API по работе с меню ресторана (CRUD операции).
-Для проверки API к проекту прилагается Postman коллекция с тестами:   
-(POSTMAN коллекция)[https://zenclass-files-hot-01.storage.yandexcloud.net/6cae3bf9-46c7-4a1d-8685-aa4172549365.json]    
-(POSTMAN окружение)[https://zenclass-files-hot-01.storage.yandexcloud.net/ec49def0-b1af-421c-9808-96a29679bcb2.json]
+Для проверки API к проекту прилагается Postman коллекция с тестами:    
++ POSTMAN коллекция: https://zenclass-files-hot-01.storage.yandexcloud.net/6cae3bf9-46c7-4a1d-8685-aa4172549365.json   
++ POSTMAN окружение: https://zenclass-files-hot-01.storage.yandexcloud.net/ec49def0-b1af-421c-9808-96a29679bcb2.json
 ## Подробное описание проекта
 3 сущности: меню, подменю, блюдо.   
 ### Зависимости:
